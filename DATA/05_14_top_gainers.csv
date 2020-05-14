@@ -1,0 +1,101 @@
+TICKER;LAST;CHG%;CHG;RATING;VOL;MKT CAP;P/E;EPS (TTM);EMPLOYEES;sector
+SEFER;8.46;41.47%;2.48;Buy;204.448K;61.049M;14.67;0.41;857.00;Producer Manufacturing
+ABVX;21.00;22.66%;3.88;Strong Buy;637.923K;219.453M;—;-2.78;—;Health Technology
+AKOM;38.00;21.79%;6.80;Buy;5.301K;132.035M;—;-0.76;20.00;Retail Trade
+MLUMG;3.42;19.58%;0.56;Buy;10;—;—;—;—;Commercial Services
+ALTTI;6.50;13.04%;0.75;Strong Buy;120;35.858M;—;—;63.00;Technology Services
+ALCLS;14.90;11.53%;1.54;Strong Buy;218.408K;589.424M;—;-1.40;264.00;Health Technology
+ALPAR;2.25;10.29%;0.21;Sell;42;10.450M;—;—;967.00;Distribution Services
+CAFO;2.58;9.32%;0.22;Sell;6.209K;23.461M;—;-2.21;749.00;Consumer Durables
+ALTUV;6.48;9.09%;0.54;Buy;340.376K;—;—;—;—;Finance
+ALMGI;2.96;8.82%;0.24;Strong Buy;2;15.171M;7.58;0.36;90.00;Electronic Technology
+LYS;3.85;8.15%;0.29;Buy;368.766K;60.828M;—;-0.32;18.00;Commercial Services
+ALCRB;13.30;8.13%;1.00;Buy;50.097K;84.855M;—;-0.55;27.00;Health Technology
+VAC;14.00;7.69%;1.00;Buy;51.898K;128.672M;—;-3.46;—;Consumer Services
+MLIMP;9.90;7.03%;0.65;Buy;6;7.663M;—;—;—;Consumer Services
+COM;14.25;5.95%;0.80;Sell;2.144K;40.991M;—;—;2613.00;Electronic Technology
+TKO;22.10;5.24%;1.10;Strong Buy;46.204K;2.864B;14.46;1.53;532.00;Finance
+CRI;16.68;5.04%;0.80;Buy;134.866K;375.824M;24.06;0.66;2095.00;Process Industries
+GNE;5.34;4.32%;0.22;Sell;39.724K;48.420B;8.44;0.61;205000.00;Electronic Technology
+ALTA;115.60;4.14%;4.60;Buy;4.794K;1.872B;7.79;14.34;2045.00;Finance
+LHN;37.85;4.10%;1.49;Buy;28.414K;22.540B;10.75;3.39;72452.00;Non-Energy Minerals
+ALMIC;23.00;4.07%;0.90;Buy;3.196K;149.128M;31.75;0.71;—;Electronic Technology
+DSD;4.02;3.96%;0.15;Buy;650.622K;—;—;—;—;Miscellaneous
+BXX;4.28;3.62%;0.15;Buy;3.207M;—;—;—;—;Miscellaneous
+ALVAL;3.48;3.57%;0.12;Sell;15.943K;26.658M;—;-1.17;—;Health Technology
+ECASA;27.40;3.40%;0.90;Buy;3.762K;219.550M;28.79;0.92;640.00;Electronic Technology
+BX4;4.48;3.25%;0.14;Buy;7.703M;—;—;—;—;Miscellaneous
+ALPRI;5.00;3.09%;0.15;Buy;351;6.607M;—;-1.97;385.00;Commercial Services
+SESG;6.02;3.05%;0.18;Buy;731.979K;2.229B;—;—;2159.00;Communications
+PARRO;2.41;2.99%;0.07;Buy;5.087K;71.168M;—;-0.99;551.00;Technology Services
+DSP5;28.25;2.95%;0.81;Sell;311.456K;—;—;—;—;Miscellaneous
+ALCAR;18.42;2.91%;0.52;Buy;25.997K;233.201M;—;—;107.00;Health Technology
+SWP;27.05;2.85%;0.75;Buy;4.828K;246.880M;—;—;2067.00;Technology Services
+ODET;602.00;2.73%;16.00;Buy;571;2.505B;—;24.94;—;Transportation
+SK;106.00;2.71%;2.80;Strong Sell;53.128K;5.469B;13.62;7.61;34263.00;Consumer Durables
+ENX;84.00;2.63%;2.15;Strong Buy;153.807K;5.749B;25.78;3.19;1070.70;Finance
+FII;13.52;2.58%;0.34;Sell;45.805K;699.495M;10.14;1.31;11171.00;Electronic Technology
+EUR;3.22;2.55%;0.08;Buy;18.849K;196.848M;12.29;0.26;—;Non-Energy Minerals
+HEXA;28.50;2.52%;0.70;Buy;2.732K;186.968M;10.13;2.75;2109.00;Finance
+ALOBR;8.20;2.50%;0.20;Buy;61;11.245M;—;—;430.00;Producer Manufacturing
+CAT31;115.00;2.50%;2.80;Buy;653;514.924M;—;—;—;Finance
+ALUVI;12.80;2.40%;0.30;Sell;30.205K;34.922M;—;—;—;Producer Manufacturing
+BLC;32.05;2.40%;0.75;Sell;26.178K;235.363M;33.68;0.93;—;Health Services
+ALPER;4.30;2.38%;0.10;Buy;51;420.444M;—;—;—;Consumer Non-Durables
+ESI;30.10;2.38%;0.70;Buy;4.827K;163.970M;—;—;1238.00;Technology Services
+BAIN;51.80;2.37%;1.20;Sell;1.146K;1.556B;49.28;1.03;—;Consumer Services
+GKTX;2.25;2.27%;0.05;Sell;66.456K;26.656M;—;-0.88;12.00;Health Technology
+EDI;7.05;2.17%;0.15;Sell;76;20.842M;7.71;0.90;542.00;Commercial Services
+BON;21.50;2.14%;0.45;Buy;11.964K;690.016M;10.15;2.10;10655.00;Consumer Non-Durables
+ERA;28.80;2.09%;0.59;Buy;115.069K;750.122M;—;-6.94;12600.00;Non-Energy Minerals
+RIN;44.60;2.06%;0.90;Buy;2.838K;1.031B;18.17;2.41;6850.00;Process Industries
+LI;15.47;2.01%;0.30;Sell;839.821K;4.706B;13.72;1.11;1101.00;Finance
+EDF;7.23;1.92%;0.14;Buy;3.487M;22.422B;4.78;1.49;164727.00;Utilities
+ALPAU;5.36;1.90%;0.10;Buy;7.791K;—;—;—;—;Process Industries
+PUB;24.14;1.90%;0.45;Sell;819.177K;6.083B;6.66;3.59;83235.00;Commercial Services
+COV;51.00;1.90%;0.95;Sell;204.397K;4.474B;5.81;8.76;937.00;Finance
+ALSTW;10.80;1.89%;0.20;Sell;151;31.435M;—;0.39;—;Communications
+BSX;18.66;1.86%;0.34;Buy;70.247K;—;—;—;—;Miscellaneous
+SHC;22.39;1.84%;0.41;Buy;207.189K;—;—;—;—;Miscellaneous
+MDM;8.25;1.79%;0.14;Buy;157.679K;366.289M;6.37;1.32;8628.00;Retail Trade
+PAT;14.95;1.70%;0.25;Buy;672;207.116M;7.91;1.86;9.00;Finance
+MRK;72.00;1.69%;1.20;Sell;434;179.754B;19.65;3.62;71000.00;Health Technology
+ALUCR;12.10;1.68%;0.20;Sell;1;21.260M;—;—;—;Finance
+ALPHS;9.86;1.65%;0.16;Buy;22.945K;28.682M;—;-1.32;—;Retail Trade
+CRB;10.83;1.64%;0.17;Buy;18.152K;—;—;—;—;Miscellaneous
+C5S;15.19;1.62%;0.24;Buy;76.263K;—;—;—;—;Miscellaneous
+C4S;22.67;1.57%;0.35;Buy;110.541K;—;—;—;—;Miscellaneous
+GLDM;97.90;1.48%;1.43;Buy;1.921K;—;—;—;—;Miscellaneous
+ALDBL;2.80;1.45%;0.04;Sell;1.710K;3.897M;—;—;—;Consumer Services
+ALBLD;8.52;1.43%;0.12;Buy;5.971K;29.253M;17.70;0.54;—;Technology Services
+CEN;51.50;1.38%;0.70;Buy;1.042K;563.979M;7.73;6.58;9023.00;Commercial Services
+AMEBA;2.96;1.37%;0.04;Buy;1.048M;42.293M;—;-0.92;15.00;Health Technology
+RBT;898.00;1.35%;12.00;Buy;448;2.110B;38.53;22.99;1940.00;Process Industries
+IMDA;61.80;1.31%;0.80;Sell;26;421.368M;9.34;6.53;7.00;Finance
+US10;184.56;1.29%;2.35;Buy;396;—;—;—;—;Miscellaneous
+ALCLA;26.20;1.16%;0.30;Sell;205;61.951M;—;1.69;—;Transportation
+CRLO;87.99;1.14%;0.99;Sell;16;729.630M;7.67;11.34;1428.00;Finance
+LPE;77.40;1.04%;0.80;Buy;151;458.251M;19.25;3.98;370.00;Consumer Non-Durables
+IPH;6.06;1.00%;0.06;Sell;279.832K;500.886M;—;-0.31;235.00;Health Technology
+ATI;2.04;0.99%;0.02;Sell;19.099K;43.585M;4.72;0.43;3854.00;Electronic Technology
+EKUS;11.45;0.99%;0.11;Buy;1.068K;—;—;—;—;Miscellaneous
+MCPHY;4.18;0.97%;0.04;Sell;64.940K;69.904M;—;-0.41;98.00;Producer Manufacturing
+ETL;9.00;0.96%;0.09;Sell;465.227K;2.130B;6.27;1.42;1001.00;Consumer Services
+SOP;95.15;0.90%;0.85;Sell;31.953K;1.983B;11.97;7.92;46245.00;Technology Services
+ASP;2.28;0.88%;0.02;Sell;4.609K;30.296M;11.09;0.20;637.00;Consumer Durables
+ALDAR;11.40;0.88%;0.10;Sell;101;78.339M;—;-4.17;—;Consumer Non-Durables
+AURE;4.62;0.87%;0.04;Buy;1.250K;54.318M;—;—;551.00;Industrial Services
+XPO;238.00;0.85%;2.00;Sell;1;2.330B;18.39;12.87;55436.00;Transportation
+C2U;11.25;0.84%;0.09;Sell;20.834K;—;—;—;—;Miscellaneous
+DBG;2.67;0.83%;0.02;Buy;190.340K;415.174M;7.60;0.35;36833.00;Transportation
+ALTEV;98.40;0.82%;0.80;Buy;183;159.237M;—;—;—;Electronic Technology
+ENGI;9.25;0.81%;0.07;Sell;11.575M;22.539B;25.18;0.41;170000.00;Utilities
+TSYE;109.80;0.77%;0.83;Buy;21;—;—;—;—;Miscellaneous
+ALANT;7.05;0.71%;0.05;Buy;1;29.032M;—;-0.38;177.00;Commercial Services
+SIGHT;2.92;0.69%;0.02;Buy;151.639K;100.681M;—;-1.08;25.00;Health Technology
+ALCUR;2.95;0.68%;0.02;Sell;468;—;—;—;—;Consumer Durables
+ITP;30.95;0.65%;0.20;Sell;5.248K;1.453B;27.24;1.13;300.00;Consumer Non-Durables
+USAG;105.52;0.63%;0.66;Buy;76;—;—;—;—;Miscellaneous
+MERY;6.18;0.57%;0.04;Sell;112.980K;575.749M;6.25;0.98;111.00;Finance
+AIR;49.88;0.56%;0.28;Sell;3.420M;40.114B;—;-2.39;134931.00;Electronic Technology
+ALDUB;3.58;0.56%;0.02;Sell;25;10.761M;—;—;78.00;Process Industries
