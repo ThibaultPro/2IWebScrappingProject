@@ -6,4 +6,4 @@ This project is aimed at constituting a database from websites and display plots
 
 
 ## Real time data acquisition on BTC value
-![alt text](https://github.com/Tpierga/2IWebScrappingProject/blob/master/photo03.png?raw=true)
+![alt text](https://github.com/Tpierga/2IWebScrappingProject/blob/master/photo04.png?raw=true)
